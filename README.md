@@ -1,7 +1,7 @@
 # Hi, I'm Shahad Adiab
 
 ## About Me
-I'm an IT Engineering student with a passion for **Operating Systems, Malware Analysis & Development, Hardware Hacking, Assembly, & Networks**.
+I'm an IT Engineering student with a passion for **Operating Systems, Malware Analysis & Development, Hardware Hacking, & Networks**.
 
 ## Currently Learning
 - OS development
