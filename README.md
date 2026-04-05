@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shahad Adiab
 
-<!--
-**0x-sadiab/0x-sadiab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an IT Engineering student with a passion for **Operating Systems, Malware Analysis & Development, Hardware Hacking, Assembly, & Networks**.
 
-Here are some ideas to get you started:
+## Currently Learning
+- OS development
+- x86 assembly & reverse engineering basics
+- Malware analysis: static/dynamic analysis, unpacking, deobfuscation
+- Linux internals & security
+- Binary exploitation
+- Hardware interfacing
+. . . & more :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Build a basic kernel or bootloader from scratch
+- Analyze real-world malware in a safe environment
+- Develop educational malware for learning analysis techniques
+- Improve binary exploitation skills via CTFs
+- Explore firmware dumping & hardware hacking
+. . . & more lol
